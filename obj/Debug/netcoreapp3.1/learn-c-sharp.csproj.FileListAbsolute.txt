@@ -1,0 +1,11 @@
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/bin/Debug/netcoreapp3.1/learn-c-sharp
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/bin/Debug/netcoreapp3.1/learn-c-sharp.deps.json
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/bin/Debug/netcoreapp3.1/learn-c-sharp.runtimeconfig.json
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/bin/Debug/netcoreapp3.1/learn-c-sharp.runtimeconfig.dev.json
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/bin/Debug/netcoreapp3.1/learn-c-sharp.dll
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/bin/Debug/netcoreapp3.1/learn-c-sharp.pdb
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/obj/Debug/netcoreapp3.1/learn-c-sharp.csprojAssemblyReference.cache
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/obj/Debug/netcoreapp3.1/learn-c-sharp.AssemblyInfoInputs.cache
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/obj/Debug/netcoreapp3.1/learn-c-sharp.AssemblyInfo.cs
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/obj/Debug/netcoreapp3.1/learn-c-sharp.dll
+/Users/ulilalbab/Documents/GitHub/learn-c-sharp/obj/Debug/netcoreapp3.1/learn-c-sharp.pdb
